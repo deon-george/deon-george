@@ -85,7 +85,7 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=deon-george&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=deon-george&theme=radical&no-frame=false&no-bg=false&row=1&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
 
 </div>
 
@@ -105,4 +105,4 @@
 <br/>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
