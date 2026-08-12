@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,20&height=340&section=header&text=Deon%20George&fontSize=82&fontColor=fff&animation=fadeIn&fontAlign=50&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20India%20🇮🇳&descAlign=50&descAlignY=64&descSize=22" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,16,20&height=340&section=header&text=Deon%20George&fontSize=82&fontColor=fff&animation=fadeIn&fontAlign=50&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20India%20🇮🇳&descAlign=50&descAlignY=64&descSize=22" width="100%"/>
 </div>
 
 <!-- Social Badges -->
