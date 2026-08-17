@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/-deongeorgevadakkel-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.behance.net/deongeorgeArt">
-    <img src="https://img.shields.io/badge/-@deongeorgevadakkel-053EFF?style=flat-square&logo=behance&logoColor=white" alt="Behance"/>
+    <img src="https://img.shields.io/badge/-deongeorgevadakkel-053EFF?style=flat-square&logo=behance&logoColor=white" alt="Behance"/>
   </a>
   <a href="https://www.instagram.com/deongeorgevadakkel">
     <img src="https://img.shields.io/badge/-deongeorgevadakkel-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
