@@ -24,9 +24,9 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Passionate **Full Stack Developer** from India
-- 🌱 Currently mastering **Python**, **DSA with C**, and **OOP with Java**
-- 💻 Love building things for the web
+- 🎓 Passionate **Computer Science Student** from India
+- 🌱 Currently mastering **Python**, **Compiler Designing with C**, **Lex Tool**, and **Yacc Tool**
+- 💻 Love building things for the Me
 - 🚀 Always exploring new technologies
 - 📫 Reach me at **deongeorgevadakkel@gmail.com**
 
