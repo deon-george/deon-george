@@ -73,9 +73,7 @@
 
 <br/>
 
-<img src="
-![GitHub Trophies](./profile-trophies.svg)
-" alt="GitHub Trophies" />
+<img src="./profile-trophies.svg" alt="GitHub Trophies" />
 </div>
 
 <br/>
