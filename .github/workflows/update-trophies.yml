@@ -22,7 +22,6 @@ jobs:
         with:
           options: "username=deon-george&theme=radical&column=7&row=1&margin-w=8&margin-h=8"
           path: profile-trophies.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit updated SVG
         run: |
