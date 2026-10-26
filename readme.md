@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href=" https://www.linkedin.com/in/deon-george-vadakkel">
-    <img src="(https://img.shields.io/badge/-deongeorgevadakkel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deon-george-vadakkel/) " alt="LinkedIn"/>
-  </a>
+  <a href="https://www.linkedin.com/in/deon-george-vadakkel/" target="_blank">
+  <img src="https://img.shields.io/badge/-deongeorgevadakkel-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
   <a href="https://www.behance.net/deongeorgeArt">
     <img src="https://img.shields.io/badge/-deongeorgevadakkel-053EFF?style=flat-square&logo=behance&logoColor=white" alt="Behance"/>
   </a>
