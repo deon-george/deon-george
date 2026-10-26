@@ -1,0 +1,33 @@
+
+name: Update GitHub Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate trophy SVG
+        uses: soulteary/github-profile-trophy-action@v1
+        with:
+          options: "username=deon-george&theme=radical&column=7&row=1&margin-w=8&margin-h=8"
+          path: profile-trophies.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+users.noreply.github.com"
+          git add profile-trophies.svg
+          git commit -m "Update GitHub trophies" || exit 0
+          git push
