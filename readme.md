@@ -73,8 +73,10 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=deon-george&theme=radical&no-frame=false&no-bg=false&row=1&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
-
+<img
+  src="https://github-profile-trophy.vercel.app/?username=deon-george&theme=radical&no-frame=true&no-bg=false&row=1&column=7&margin-w=8&margin-h=8"
+  alt="GitHub Trophies"
+/>
 </div>
 
 <br/>
