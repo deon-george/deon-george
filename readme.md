@@ -34,9 +34,9 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,react,nodejs,mysql,git,github&perline=6" alt="Tech Stack"/>
-</p>
+ <p align="center">
+            <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,react,nodejs,mysql,git,github,flask,bash,linux,figma,docker,vite,mongodb&perline=6" alt="Tech Stack">
+  </p>
 
 <br/>
 
